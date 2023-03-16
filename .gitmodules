@@ -1,3 +1,6 @@
 [submodule "CookHolic-using-grid"]
 	path = CookHolic-using-grid
 	url = https://github.com/PrabinaRegmi/CookHolic-using-grid.git
+[submodule "NewsGrid_website"]
+	path = NewsGrid_website
+	url = https://github.com/PrabinaRegmi/NewsGrid_website.git
