@@ -4,3 +4,18 @@
 [submodule "NewsGrid_website"]
 	path = NewsGrid_website
 	url = https://github.com/PrabinaRegmi/NewsGrid_website.git
+[submodule "RiseHigh_Project"]
+	path = RiseHigh_Project
+	url = https://github.com/PrabinaRegmi/RiseHigh_Project.git
+[submodule "Temperature-converter"]
+	path = Temperature-converter
+	url = https://github.com/PrabinaRegmi/Temperature-converter.git
+[submodule "Dice-challenge"]
+	path = Dice-challenge
+	url = https://github.com/PrabinaRegmi/Dice-challenge.git
+[submodule "Loan-calculator"]
+	path = Loan-calculator
+	url = https://github.com/PrabinaRegmi/Loan-calculator.git
+[submodule "SimpleHotel"]
+	path = SimpleHotel
+	url = https://github.com/PrabinaRegmi/SimpleHotel.git
