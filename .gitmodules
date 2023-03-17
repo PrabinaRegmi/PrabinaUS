@@ -19,3 +19,12 @@
 [submodule "SimpleHotel"]
 	path = SimpleHotel
 	url = https://github.com/PrabinaRegmi/SimpleHotel.git
+[submodule "ScoreKeeper"]
+	path = ScoreKeeper
+	url = https://github.com/PrabinaRegmi/ScoreKeeper.git
+[submodule "EdgeLedger"]
+	path = EdgeLedger
+	url = https://github.com/PrabinaRegmi/EdgeLedger.git
+[submodule "JD"]
+	path = JD
+	url = https://github.com/PrabinaRegmi/JD.git
